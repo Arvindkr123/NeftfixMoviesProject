@@ -4,7 +4,7 @@ import Home from './components/Home';
 import './App.scss'
 import Header from './Header/Header';
 
-const App = () => {
+const App = () => { 
   return (
     <Router>
       <Header/>
